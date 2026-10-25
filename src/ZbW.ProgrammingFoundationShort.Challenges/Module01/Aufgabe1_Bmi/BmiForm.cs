@@ -35,4 +35,19 @@ public partial class BmiForm : Form
 
     LblErgebnis.Text = $"Ihr BMI beträgt: {bmi:F2}";
   }
+
+  private void BmiForm_Load(object sender, EventArgs e)
+  {
+
+  }
+
+  private void TxtGewicht_TextChanged(object sender, EventArgs e)
+  {
+
+  }
+
+  private void LblGewicht_Click(object sender, EventArgs e)
+  {
+
+  }
 }
