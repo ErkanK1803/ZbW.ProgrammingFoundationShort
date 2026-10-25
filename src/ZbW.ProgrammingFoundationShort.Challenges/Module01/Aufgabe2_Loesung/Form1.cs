@@ -41,7 +41,7 @@ namespace ZbW.ProgrammingFoundationShort.Challenges.Module01.Aufgabe2_Loesung
       }
       if (Betrag < 0)
       {
-        MessageBox.Show("Negative Beträge sind nicht erlaubt");
+        MessageBox.Show("Negative Beträge sind nicht ok");
         return;
       }
       decimal franken = Betrag * ChfToEur;
