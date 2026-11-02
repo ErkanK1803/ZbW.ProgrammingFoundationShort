@@ -23,8 +23,11 @@ internal static class Program
 
     // ---- Modul 02 ----
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module02.Aufgabe1_Ampelsteuerung.AmpelsteuerungForm());
+    // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module02.Aufgabe1_Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module02.Aufgabe2_Notenrechner.NotenrechnerForm());
+    // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module02.Aufgabe2_Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module02.Aufgabe3_Versicherungspraemie.VersicherungspraemieForm());
+    Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module02.Aufgabe3_Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module02.Aufgabe4_TaschenrechnerVerlauf.TaschenrechnerVerlaufForm());
 
     // ---- Modul 03 ----
