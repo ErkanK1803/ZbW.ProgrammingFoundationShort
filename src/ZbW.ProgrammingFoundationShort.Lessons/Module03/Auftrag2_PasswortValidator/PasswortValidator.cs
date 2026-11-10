@@ -16,8 +16,10 @@ public static class PasswortValidator
 {
   public static void Start()
   {
-    // TODO 1: string passwort; bool gueltig;
-    //         do { ... } while (!gueltig);
+    string passwort; bool gueltig;
+    /do { ... } while (!gueltig);
+
+    int na
 
     // TODO 2: In der Schleife Passwort einlesen (Console.ReadLine() ?? "")
 
