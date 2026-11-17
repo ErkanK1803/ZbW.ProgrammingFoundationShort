@@ -34,7 +34,7 @@ internal static class Program
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module03.Aufgabe1_Multiplikationstabelle.MultiplikationstabelleForm());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module03.Aufgabe1_Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module03.Aufgabe2_ZahlenRatespiel.ZahlenRatespielForm());
-    Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module03.Aufgabe2_Loesung.Form1());
+    // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module03.Aufgabe2_Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module03.Aufgabe3_PasswortGenerator.PasswortGeneratorForm());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module03.Aufgabe4_StatistikSimulator.StatistikSimulatorForm());
 
