@@ -42,7 +42,7 @@ internal static class Program
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe1_TemperaturAuswertung.TemperaturAuswertungForm());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe1_Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe2_Wortzaehler.WortzaehlerForm());
-    Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe2_Loesung.Form1());
+    // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe2_Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe3_MatrizenRechner.MatrizenRechnerForm());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe3_MatrizenRechner.Loesung.Form1());
     // Application.Run(new ZbW.ProgrammingFoundationShort.Challenges.Module04.Aufgabe4_SortierVisualisierung.SortierVisualisierungForm());
